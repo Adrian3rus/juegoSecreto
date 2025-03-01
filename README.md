@@ -1,1 +1,1 @@
-@octocat :+1: Readme - pagina de juegos secreto ! :shipit:
+:+1: Readme - pagina de juego secreto ! realizado con la tutoria de alura :shipit:
