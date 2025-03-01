@@ -1,4 +1,8 @@
-:+1: Readme - pagina de juego secreto ! realizado con la tutoria de alura :shipit:
+:+1: Readme 
+<h1> pagina de juego secreto ! </h1>
+  
+ 
+Realizado con la tutoria de alura :shipit:
 
 
 > [!NOTE]
